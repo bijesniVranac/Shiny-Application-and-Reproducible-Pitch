@@ -1,0 +1,12 @@
+name: carApp
+title: carApp
+username:
+account: bijesnivranac
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2535610
+bundleId: 3351332
+url: https://bijesnivranac.shinyapps.io/carApp/
+when: 1593864434.45458
+asMultiple: FALSE
+asStatic: FALSE

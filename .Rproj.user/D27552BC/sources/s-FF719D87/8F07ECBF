@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1593863411026.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8F07ECBF",
+    "lastKnownWriteTime" : 1593864370,
+    "last_content_update" : 1593864370982,
+    "path" : "C:/Users/edjodaj/Desktop/R SPEC/course 9 final/Application/server.R",
+    "project_path" : "Application/server.R",
+    "properties" : {
+        "cursorPosition" : "13,34",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

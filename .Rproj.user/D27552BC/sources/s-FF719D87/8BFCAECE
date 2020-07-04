@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1593875369816.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "161212832",
+    "id" : "8BFCAECE",
+    "lastKnownWriteTime" : 1593875709,
+    "last_content_update" : 1593875709011,
+    "path" : "C:/Users/edjodaj/Desktop/R SPEC/course 9 final/Application/pres.Rpres",
+    "project_path" : "Application/pres.Rpres",
+    "properties" : {
+        "cursorPosition" : "26,115",
+        "scrollLine" : "16"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_presentation"
+}
